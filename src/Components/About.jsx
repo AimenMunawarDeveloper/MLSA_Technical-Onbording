@@ -10,33 +10,33 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/image2.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Multicolor abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a front-end web development student enrolled in the Software Engineering program at NUST. I find joy in designing distinctive and user-friendly interfaces, constantly exploring creative approaches to deliver visually appealing and intuitive user experiences.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "HTML5 and CSS3",
+  "JavaScript and ES6",
+  "Responsive Design",
+  "Front-End Frameworks",
+  "Version Control/Git",
+  "Web Performance Optimization",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a web developer, I am driven by a passion for crafting seamless digital experiences that not only address user needs but also push the boundaries of creative problem-solving. My aspirations lie in harnessing my technical skills to create innovative, user-centric solutions that enhance accessibility and usability across diverse online platforms.";
 
 const About = () => {
   return (
