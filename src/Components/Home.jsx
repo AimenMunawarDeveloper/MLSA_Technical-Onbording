@@ -23,12 +23,12 @@ import PropTypes from "prop-types";
 import image from "../images/My_Background_Image.png";
 
 const imageAltText = "Aimen Munawar- Front-End Web Developer.This is a background image of some code in HTML,CSS";
-
+const headingStyling = {position: "absolute", top: "5rem", left: "2rem", color: "white", background: 'black', borderRadius: '5px', padding: '10px'};
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
       <img className="background" src={image} alt="" />
-      <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "17rem" }}>
+      <div style={headingStyling}>
         <h1>{name}</h1>
         <h2>{title}</h2>
       </div>
