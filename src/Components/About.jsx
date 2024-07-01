@@ -37,6 +37,7 @@ const skillsList = [
   "Front-End Frameworks",
   "Version Control/Git",
   "Web Performance Optimization",
+  "Word Press",
 ];
 
 /**

@@ -31,10 +31,10 @@ const imageAltText = "laptop  and tablet with glasses and a cup of coffee";
  */
 const projectList = [
   {
-    title: "My Startup Page 🎉",
+    title: "Multi-Tenant File Management System🎉",
     description:
-      "This is a basic startup page with one background image and a button.clicking on the button takes you to a signup page created using mailchamp.",
-    url: "https://aimenmunawardeveloper.github.io/Startup-Page/",
+      "A multi-tenant file management system similar to Google Drive, with secure authentication, role-based access, React front-end, Node.js/Express back-end, MongoDB storage, AWS S3 integration, and API documentation using Postman.",
+    url: "https://github.com/AimenMunawarDeveloper/File",
   },
   {
     title: "Totoro",
