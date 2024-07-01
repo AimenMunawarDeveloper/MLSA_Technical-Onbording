@@ -38,17 +38,17 @@ const projectList = [
   },
   {
     title: "Totoro",
-    description: "A pomodoro app in C.",
+    description: "A simple program to help you stay focused and productive by sequentially scheduling work and rest times. Traditionally, there are four straight 25-minute focus periods, five-minute breaks, and then a lengthier 30-minute rest. This program accurately applies the Pomodoro technique and indicates when to work and when to take a brief break.",
     url: "https://github.com/AimenMunawarDeveloper/Totoro",
   },
   {
     title: "Green Thread Front-End",
-    description: "An E-commerce site created using Javascript,React.",
+    description: "A scalable MERN stack-based sustainable fashion marketplace, with features like product management, user authentication, shopping cart, and inventory tracking, while leading a collaborative team.",
     url: "https://green-thread.netlify.app/",
   },
   {
     title: "Green Thread Admin Panel",
-    description: "This is the admin panel of an E-commerce site created using Javascript,React.",
+    description: "Provides functionalities such as sales and customer activity metrics, product management including inventory and categories, order handling with status updates and returns management, and user management for accounts and support requests",
     url: "https://github.com/AimenMunawarDeveloper/e-commerce-app-admin-panel",
   },
 ];
